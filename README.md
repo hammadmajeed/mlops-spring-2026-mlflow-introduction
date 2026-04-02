@@ -327,29 +327,3 @@ for C in [0.01, 0.1, 1, 10]:
 * models become complex
 * teams collaborate
 
----
-
-## 🚀 Extension (Optional)
-
-* Integrate with DVC pipeline
-* Deploy best model using FastAPI
-* Automate experiments using GitHub Actions
-
----
-
-# 💡 Why This Version is Better
-
-Compared to housing regression:
-
-* ✔ Introduces **optimization concepts (regularization)**
-* ✔ Shows **multi-metric trade-offs**
-* ✔ Enables **real experiment comparison**
-* ✔ Mimics **real ML workflows**
-
----
-
-If you want next step, I can:
-
-* Turn this into a **graded lab exam (LaTeX format)**
-* Add **automated hyperparameter tuning (Optuna + MLflow)**
-* Or extend into a **full MLOps pipeline (DVC + MLflow + K8s + CI/CD)**
